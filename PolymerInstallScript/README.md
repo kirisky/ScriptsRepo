@@ -3,6 +3,10 @@
 The Polymer project is only for Linux.  
 So, the scripts I wrote for building Polymer project on Windows.
 
+## requirement
+1. Build Tools for Visual Studio 2017 and Visual C++ build tools workload
+2. Anaconda
+
 ## Process of Execution
 1. Install dependencies Polymer needs
 2. Fetching auxiliary data
