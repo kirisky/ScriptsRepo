@@ -7,4 +7,4 @@ So, the scripts I wrote for building Polymer project on Windows.
 1. Install dependencies Polymer needs
 2. Fetching auxiliary data
 3. Build the project
-4. Create a folder the project needs
+4. Create folders the project needs
