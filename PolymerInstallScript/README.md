@@ -6,8 +6,16 @@ So, the scripts I wrote for building Polymer project on Windows.
 ## requirement
 1. [Build Tools for Visual Studio 2017 and Visual C++ build tools workload](https://visualstudio.microsoft.com/downloads/)
 2. [Anaconda](https://www.anaconda.com/distribution/)
+3. [Polymer Project](https://www.hygeos.com/polymer)
 
-## Process of Execution
+## How to use it
+1. Open Anaconda Prompt
+2. Enter the Polymer project
+3. Copy the scripts to the folder
+4. Type command "Set-ExecutionPolicy Bypass -Scope Process -Force;"
+5. Run the script "Polymer-Installer-For-WIndows"
+
+## Process of execution of the scripts
 1. Install dependencies Polymer needs
 2. Fetching auxiliary data
 3. Build the project
