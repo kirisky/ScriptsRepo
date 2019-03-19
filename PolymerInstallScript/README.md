@@ -1,6 +1,6 @@
 # Install Script of Polymer for Windows
 
-The Polymer project is only for Linux.
+The Polymer project is only for Linux.  
 So, the scripts I wrote for building Polymer project on Windows.
 
 ## Process of Execution
