@@ -8,3 +8,4 @@ So, the scripts I wrote for building Polymer project on Windows.
 2. Fetching auxiliary data
 3. Build the project
 4. Create folders the project needs
+5. When the scripts finished, you can run "python polymer_cli.py -h" and know if the installing is successful or not.
