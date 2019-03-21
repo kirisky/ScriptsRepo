@@ -76,7 +76,9 @@ for ($i = 0; $i -lt $urlContainer.Count; $i++)
             }
             # $web.Content | Out-File "./test.html"
         }
-    } catch {}
+    } catch {
+        echo ("Directory number " + $i + " is not available!")
+    }
 }
 
 $urlList.ToString() | Out-File urls.txt
